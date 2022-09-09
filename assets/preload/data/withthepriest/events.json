@@ -1,0 +1,144 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "philly",
+		"player1": "pico-player",
+		"player2": "tankman",
+		"player3": null,
+		"events": [
+			[
+				6000,
+				[
+					[
+						"Play Animation",
+						"ugh",
+						"Dad"
+					]
+				]
+			],
+			[
+				10600,
+				[
+					[
+						"Play Animation",
+						"ugh",
+						"Dad"
+					]
+				]
+			],
+			[
+				11000,
+				[
+					[
+						"Play Animation",
+						"ugh",
+						"Dad"
+					]
+				]
+			],
+			[
+				18800,
+				[
+					[
+						"Play Animation",
+						"ugh",
+						"Dad"
+					]
+				]
+			],
+			[
+				58600,
+				[
+					[
+						"Play Animation",
+						"ugh",
+						"Dad"
+					]
+				]
+			],
+			[
+				59000,
+				[
+					[
+						"Play Animation",
+						"ugh",
+						"Dad"
+					]
+				]
+			],
+			[
+				61800,
+				[
+					[
+						"Play Animation",
+						"ugh",
+						"Dad"
+					]
+				]
+			],
+			[
+				62200,
+				[
+					[
+						"Play Animation",
+						"ugh",
+						"Dad"
+					]
+				]
+			],
+			[
+				64000,
+				[
+					[
+						"gf visible",
+						"1",
+						""
+					],
+					[
+						"Change Character",
+						"1",
+						"spooky"
+					],
+					[
+						"Change Character",
+						"2",
+						"tankman"
+					]
+				]
+			],
+			[
+				74300,
+				[
+					[
+						"Change Character",
+						"1",
+						"tankman"
+					],
+					[
+						"gf visible",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				82800,
+				[
+					[
+						"Play Animation",
+						"ugh",
+						"Dad"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "nogf",
+		"bpm": 150,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "picohasgaysexwiththepriest"
+	}
+}
