@@ -1,0 +1,11 @@
+{
+	"idle_anim": "perez luces",
+	"confirm_anim": "perez stage",
+	"position": [
+		447,
+		245
+	],
+	"scale": 0.7,
+	"flipX": false,
+	"image": "perez sen"
+}

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="stage perez.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="perez stage0000" x="0" y="0" width="1280" height="386"/>
+	<SubTexture name="perez stage0001" x="0" y="0" width="1280" height="386"/>
+	<SubTexture name="perez stage0002" x="0" y="0" width="1280" height="386"/>
+	<SubTexture name="perez stage0003" x="0" y="0" width="1280" height="386"/>
+	<SubTexture name="perez stage0004" x="0" y="0" width="1280" height="386"/>
+	<SubTexture name="perez stage0005" x="0" y="0" width="1280" height="386"/>
+	<SubTexture name="perez stage0006" x="0" y="0" width="1280" height="386"/>
+	<SubTexture name="perez stage0007" x="0" y="0" width="1280" height="386"/>
+	<SubTexture name="perez stage0008" x="0" y="0" width="1280" height="386"/>
+	<SubTexture name="perez stage0009" x="0" y="0" width="1280" height="386"/>
+	<SubTexture name="perez stage0010" x="0" y="0" width="1280" height="386"/>
+</TextureAtlas>

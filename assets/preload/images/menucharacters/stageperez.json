@@ -1,0 +1,11 @@
+{
+	"idle_anim": "perez stage",
+	"image": "stage perez",
+	"position": [
+		490,
+		14
+	],
+	"flipX": false,
+	"scale": 1,
+	"confirm_anim": "perez stage"
+}

@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="perez sen.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="perez luces0000" x="0" y="0" width="1852" height="1305"/>
+	<SubTexture name="perez luces0001" x="0" y="0" width="1852" height="1305"/>
+	<SubTexture name="perez luces0002" x="0" y="0" width="1852" height="1305"/>
+	<SubTexture name="perez luces0003" x="0" y="0" width="1852" height="1305"/>
+	<SubTexture name="perez luces0004" x="0" y="0" width="1852" height="1305"/>
+	<SubTexture name="perez luces0005" x="0" y="0" width="1852" height="1305"/>
+	<SubTexture name="perez luces0006" x="0" y="0" width="1852" height="1305"/>
+	<SubTexture name="perez luces0007" x="0" y="0" width="1852" height="1305"/>
+	<SubTexture name="perez luces0008" x="0" y="0" width="1852" height="1305"/>
+	<SubTexture name="perez luces0009" x="0" y="0" width="1852" height="1305"/>
+	<SubTexture name="perez luces0010" x="0" y="0" width="1852" height="1305"/>
+	<SubTexture name="perez luces0011" x="0" y="0" width="1852" height="1305"/>
+	<SubTexture name="perez luces0012" x="0" y="0" width="1852" height="1305"/>
+	<SubTexture name="perez luces0013" x="0" y="0" width="1852" height="1305"/>
+	<SubTexture name="perez luces0014" x="0" y="0" width="1852" height="1305"/>
+	<SubTexture name="perez luces0015" x="0" y="0" width="1852" height="1305"/>
+	<SubTexture name="perez luces0016" x="0" y="0" width="1852" height="1305"/>
+	<SubTexture name="perez luces0017" x="0" y="0" width="1852" height="1305"/>
+	<SubTexture name="perez luces0017" x="0" y="0" width="1852" height="1305"/>
+	<SubTexture name="perez luces0018" x="0" y="0" width="1852" height="1305"/>
+	<SubTexture name="perez luces0019" x="0" y="0" width="1852" height="1305"/>
+	<SubTexture name="perez luces0020" x="0" y="0" width="1852" height="1305"/>
+	<SubTexture name="perez luces0021" x="1852" y="0" width="1852" height="1305"/>
+	<SubTexture name="perez luces0022" x="1852" y="0" width="1852" height="1305"/>
+	<SubTexture name="perez luces0023" x="1852" y="0" width="1852" height="1305"/>
+	<SubTexture name="perez luces0024" x="1852" y="0" width="1852" height="1305"/>
+	<SubTexture name="perez luces0025" x="1852" y="0" width="1852" height="1305"/>
+	<SubTexture name="perez luces0026" x="1852" y="0" width="1852" height="1305"/>
+	<SubTexture name="perez luces0027" x="1852" y="0" width="1852" height="1305"/>
+	<SubTexture name="perez luces0028" x="1852" y="0" width="1852" height="1305"/>
+	<SubTexture name="perez luces0029" x="1852" y="0" width="1852" height="1305"/>
+	<SubTexture name="perez luces0030" x="1852" y="0" width="1852" height="1305"/>
+	<SubTexture name="perez luces0031" x="1852" y="0" width="1852" height="1305"/>
+	<SubTexture name="perez luces0032" x="1852" y="0" width="1852" height="1305"/>
+	<SubTexture name="perez luces0033" x="1852" y="0" width="1852" height="1305"/>
+	<SubTexture name="perez luces0034" x="1852" y="0" width="1852" height="1305"/>
+	<SubTexture name="perez luces0035" x="1852" y="0" width="1852" height="1305"/>
+	<SubTexture name="perez luces0036" x="1852" y="0" width="1852" height="1305"/>
+	<SubTexture name="perez luces0037" x="1852" y="0" width="1852" height="1305"/>
+	<SubTexture name="perez luces0038" x="1852" y="0" width="1852" height="1305"/>
+	<SubTexture name="perez luces0039" x="1852" y="0" width="1852" height="1305"/>
+	<SubTexture name="perez luces0040" x="1852" y="0" width="1852" height="1305"/>
+	<SubTexture name="perez luces0041" x="1852" y="0" width="1852" height="1305"/>
+</TextureAtlas>
