@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-38,
+				-105
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "tankman down note"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "tankman idle dnace"
+		},
+		{
+			"offsets": [
+				-27,
+				-13
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "tankman right note"
+		},
+		{
+			"offsets": [
+				2,
+				-4
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "ugh",
+			"loop": false,
+			"name": "tankman ugh"
+		},
+		{
+			"offsets": [
+				-18,
+				33
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "tankman up note"
+		},
+		{
+			"offsets": [
+				35,
+				2
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "tankman left note"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/fenceman",
+	"position": [
+		-20,
+		-250
+	],
+	"healthicon": "tankman",
+	"flip_x": false,
+	"healthbar_colors": [
+		225,
+		225,
+		225
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
