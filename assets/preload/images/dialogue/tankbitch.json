@@ -1,0 +1,51 @@
+{
+	"dialogue_pos": "center",
+	"position": [
+		-40,
+		80
+	],
+	"no_antialiasing": false,
+	"scale": 1.25,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				-1,
+				-2
+			],
+			"loop_name": "tank default port",
+			"idle_name": "tank default port"
+		},
+		{
+			"loop_name": "tank angry port",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "tank angry port0",
+			"anim": "angry",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "tank slouch port",
+			"idle_offsets": [
+				0,
+				-20
+			],
+			"idle_name": "tank slouch port0",
+			"anim": "slouch",
+			"loop_offsets": [
+				0,
+				-21
+			]
+		}
+	],
+	"image": "TankBitch_Dialogue"
+}

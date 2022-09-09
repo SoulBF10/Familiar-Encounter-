@@ -1,0 +1,51 @@
+{
+	"position": [
+		-40,
+		80
+	],
+	"dialogue_pos": "center",
+	"no_antialiasing": false,
+	"scale": 1.25,
+	"image": "Pico_Dialogue",
+	"animations": [
+		{
+			"idle_offsets": [
+				-1,
+				-2
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_name": "pico default port0",
+			"loop_name": "pico default port"
+		},
+		{
+			"loop_offsets": [
+				60,
+				1
+			],
+			"anim": "gun",
+			"idle_offsets": [
+				61,
+				-15
+			],
+			"loop_name": "pico gun port",
+			"idle_name": "pico gun port0"
+		},
+		{
+			"loop_offsets": [
+				0,
+				-14
+			],
+			"anim": "smug",
+			"idle_offsets": [
+				0,
+				-15
+			],
+			"loop_name": "pico smug port",
+			"idle_name": "pico smug port0"
+		}
+	]
+}
