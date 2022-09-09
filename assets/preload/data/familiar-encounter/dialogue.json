@@ -1,0 +1,100 @@
+{
+	"dialogue": [
+		{
+			"expression": "angry",
+			"text": "¡Oye! ¿Quien diablos interrumpio mi sesion de entrenamiento?",
+			"boxState": "normal",
+			"portrait": "tankbitch",
+			"speed": 0.04,
+			"sound": "lines1"
+		},
+		{
+			"expression": "smug",
+			"text": "heh",
+			"boxState": "normal",
+			"portrait": "pico",
+			"speed": 0.05,
+			"sound": "lines2"
+		},
+		{
+			"expression": "talk",
+			"text": "Ese es un descanso dificil, ¿eh, capitan? ",
+			"boxState": "normal",
+			"portrait": "pico",
+			"speed": 0.05,
+			"sound": "lines3"
+		},
+		{
+			"expression": "slouch",
+			"text": "*fuerte gemido*",
+			"boxState": "normal",
+			"portrait": "tankbitch",
+			"speed": 0,
+			"sound": "lines4"
+		},
+		{
+			"expression": "talk",
+			"text": "¿Que quieres esta vez, Cabeza De Zanaoria?",
+			"boxState": "normal",
+			"portrait": "tankbitch",
+			"speed": 0.05,
+			"sound": "lines5"
+		},
+		{
+			"expression": "smug",
+			"text": "Bueno, me alegra que hayas preguntado",
+			"boxState": "normal",
+			"portrait": "pico",
+			"speed": 0.05,
+			"sound": "lines6"
+		},
+		{
+			"expression": "gun",
+			"text": "Todavia tengo trabajo pendiente por hacer, ser tu aguafiestas personal.",
+			"boxState": "normal",
+			"portrait": "pico",
+			"speed": 0.05,
+			"sound": "lines7"
+		},
+		{
+			"expression": "gun",
+			"text": "Entonces, ¡estoy aqui para echarle la culpa a esta mierda!",
+			"boxState": "angry",
+			"portrait": "pico",
+			"speed": 0.02,
+			"sound": "lines8"
+		},
+		{
+			"expression": "angry",
+			"text": "¿No disparaste a la mayor parte de mi equipo de todos modos, locos entumecidos?",
+			"boxState": "normal",
+			"portrait": "tankbitch",
+			"speed": 0.05,
+			"sound": "lines9"
+		},
+		{
+			"expression": "angry",
+			"text": "¿¡Como puedes volver por mas!?",
+			"boxState": "angry",
+			"portrait": "tankbitch",
+			"speed": 0.03,
+			"sound": "lines10"
+		},
+		{
+			"expression": "slouch",
+			"text": "*suspiro*",
+			"boxState": "normal",
+			"portrait": "tankbitch",
+			"speed": 0,
+			"sound": "lines11"
+		},
+		{
+			"expression": "slouch",
+			"text": "bien, acabemos con esto",
+			"boxState": "normal",
+			"portrait": "tankbitch",
+			"speed": 0.05,
+			"sound": "lines12"
+		}
+	]
+}
