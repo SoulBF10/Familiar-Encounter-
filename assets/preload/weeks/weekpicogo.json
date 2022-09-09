@@ -1,0 +1,32 @@
+{
+	"storyName": "pico day",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"familiar-encounter",
+			"pico",
+			[
+				66,
+				193,
+				15
+			]
+		]
+	],
+	"weekCharacters": [
+		"perezsen",
+		"stageperez",
+		"pico"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}
